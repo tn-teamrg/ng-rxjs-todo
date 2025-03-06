@@ -1,0 +1,24 @@
+"Thanh Nguyen <thanh.nguyen@teamrg.com>,Thu Mar 6 09:02:28 2025 -0500	3ad005547b1678c6691a2e7dae36cc66aaa982e3,initial commit"
+16	0	.editorconfig
+42	0	.gitignore
+4	0	.vscode/extensions.json
+20	0	.vscode/launch.json
+42	0	.vscode/tasks.json
+27	0	README.md
+101	0	angular.json
+13398	0	package-lock.json
+38	0	package.json
+336	0	src/app/app.component.html
+0	0	src/app/app.component.scss
+29	0	src/app/app.component.spec.ts
+14	0	src/app/app.component.ts
+8	0	src/app/app.config.ts
+3	0	src/app/app.routes.ts
+0	0	src/assets/.gitkeep
+-	-	src/favicon.ico
+13	0	src/index.html
+6	0	src/main.ts
+1	0	src/styles.scss
+14	0	tsconfig.app.json
+33	0	tsconfig.json
+14	0	tsconfig.spec.json
